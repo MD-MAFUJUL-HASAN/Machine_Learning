@@ -6,7 +6,7 @@
 
 **The detailed Description of each project along with the meta projects listed in this repository can be found at github page :-**
 
-**_[https://github.com/MD-MAFUJUL-HASAN/Projects/](https://github.com/MD-MAFUJUL-HASAN/Projects)_ ⭐⭐⭐**
+**_[https://github.com/MD-MAFUJUL-HASAN/Projects/](https://github.com/MD-MAFUJUL-HASAN/Projects)_ **
 
 
 ### [List of Machine Learning Projects](https://github.com/MD-MAFUJUL-HASAN/Projects/tree/main/Machine%20Learning/) :- ⭐⭐⭐
