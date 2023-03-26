@@ -8,9 +8,8 @@
 
 **_[https://github.com/MD-MAFUJUL-HASAN/Projects/](https://github.com/MD-MAFUJUL-HASAN/Projects)_ ⭐⭐⭐**
 
-### [List of Projects](https://github.com/MD-MAFUJUL-HASAN/Projects/) :-
 
-### [List of Machine Learning Projects](https://github.com/MD-MAFUJUL-HASAN/Projects/tree/main/Machine%20Learning/) :-
+### [List of Machine Learning Projects](https://github.com/MD-MAFUJUL-HASAN/Projects/tree/main/Machine%20Learning/) :- ⭐⭐⭐
 
 * [Heart Disease Prediction](https://github.com/MD-MAFUJUL-HASAN/Projects/tree/main/Machine%20Learning/Heart%20Disease%20Prediction)
 * [Salary Sheet](https://github.com/MD-MAFUJUL-HASAN/Projects/tree/main/Machine%20Learning/Salary%20Sheet)
