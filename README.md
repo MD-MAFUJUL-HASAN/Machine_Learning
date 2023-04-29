@@ -1,16 +1,26 @@
-![image](https://user-images.githubusercontent.com/128472454/227768534-5a8a8146-8f77-484e-b6a7-d180824b383a.jpg)
-
-<div Align="center"><h1> <a href="https://github.com/MD-MAFUJUL-HASAN/Machine_Learning"> Machine Learning Projects </a></h1></div>
+<div align="center">
   
-**These Contain Some Machine Learning Projects that I have done while understanding Programming Concepts.**
+  ### Machine_Learning
+</div>
 
-**The detailed Description of each project along with the meta projects listed in this repository can be found at github page :-**
-
-**_[https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/](https://github.com/MD-MAFUJUL-HASAN/Machine_Learning)_ **
-
-
-### [List of Machine Learning Projects](https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/) :- ⭐⭐⭐
-
-* [Heart Disease Prediction](https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/tree/main/Heart%20Disease%20Prediction)
-* [Salary Sheet](https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/tree/main/Salary%20Sheet)
-* [Facebook Account](https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/tree/main/Facebook%20Account)
+<p align="center">
+&emsp;
+  <img src="https://img.shields.io/github/languages/code-size/MD-MAFUJUL-HASAN/Machine_Learning?style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/repo-size/MD-MAFUJUL-HASAN/Machine_Learning?color=purple&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/count/MD-MAFUJUL-HASAN/Machine_Learning?color=green&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/top/MD-MAFUJUL-HASAN/Machine_Learning?color=orange&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/Machine_Learning?color=lime&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/last-commit/MD-MAFUJUL-HASAN/Machine_Learning?color=darkgreen&style=for-the-badge">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Machine_Learning?category=code" width="200">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Machine_Learning?category=lines" width="175">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Machine_Learning?category=files" width="100">
+  &emsp;
+  </p>
